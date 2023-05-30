@@ -18,7 +18,7 @@
 }
 
 .container{
-    width:1200px;
+    width:1500px;
     margin:0 auto;
 }
 
@@ -26,7 +26,6 @@
     display: flex;
     justify-content:space-between;
     align-items:center;
-
     padding-top:1rem;
 }
 
@@ -52,14 +51,13 @@
 }
 
 .nav-items div{
-    font-size:20px;
+    font-size:25px;
     font-weight:500;
     cursor:pointer;
    
 }
 .nav-items div a{
     color:black;
-    /* transition: all 5s ease; */
 }
 
 a{
